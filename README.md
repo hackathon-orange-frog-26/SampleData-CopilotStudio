@@ -31,7 +31,7 @@ Paths are relative to this folder.
 | Folder | Content |
 |---|---|
 | `Office-Formats` | DOCX versions of the 21 existing sample documents and an XLSX version of the payroll register |
-| `Agent-Setup` | Setup notes for the Cloud & AI Advisor (Microsoft Learn MCP) and the Workplace Assistant (Work IQ) |
+| `Agent-Setup` | Setup notes for the Cloud & AI Advisor (Microsoft Learn MCP) and the Workplace Assistant (Work IQ), and for registering the Microsoft Learn MCP server with Agent 365 |
 
 ## Suggested demo prompts
 
